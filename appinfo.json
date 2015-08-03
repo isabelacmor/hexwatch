@@ -1,0 +1,37 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "isabellacmor",
+    "longName": "hexwatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9#]",
+                "file": "fonts/2 Lines solo letras para dafont.ttf",
+                "name": "FONT_BLOCK_42",
+                "trackingAdjust": 4,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9.%]",
+                "file": "fonts/braciola-ms.exb-stencil.ttf",
+                "name": "FONT_BLOCK_20",
+                "trackingAdjust": 2,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "hexwatch",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "476b6587-4899-474b-9a08-d989958f91fa",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
