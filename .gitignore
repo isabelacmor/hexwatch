@@ -1,0 +1,6 @@
+# Ignore Pebble-specific build files
+build
+.lock-waf*
+pebble-screenshot*
+.*.swp
+.DS_Store
